@@ -1,7 +1,7 @@
 # fast-style-container
 
 ## About 
-This containerizes training of Logan Engstrom's (fast-style-transfer)[https://github.com/lengstrom/fast-style-transfer], and trains on a CentOS Docker image.
+This containerizes training of Logan Engstrom's [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer), and trains on a CentOS Docker image.
 
 ## Usage
 * Include your desired style image in the `/images` directory
